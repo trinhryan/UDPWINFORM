@@ -3,11 +3,13 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 
-namespace UDPClient
+namespace UDPClient;
+
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        try
         {
             Console.Title = "UDP Client";
 
@@ -48,9 +50,14 @@ namespace UDPClient
                     Console.WriteLine($"Response from Server <<< {result}");
 
                     // Xóa bộ nhớ đệm
-                    Array.Clear(receiveBuffer, 0, size);
+                    // Array.Clear(receiveBuffer, 0, size);
                 }
             }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            throw;
         }
     }
 }

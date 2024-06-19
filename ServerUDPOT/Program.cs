@@ -3,17 +3,19 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 
-namespace UDPServer
+namespace UDPServer;
+
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        try
         {
-            Console.Title = "UDP Server"; 
+            Console.Title = "UDP Server";
 
             // Set up IPEndpoint
-            var localIP = IPAddress.Any; 
-            var localPort = 1308; 
+            var localIP = IPAddress.Any;
+            var localPort = 1308;
             var localEndpoint = new IPEndPoint(localIP, localPort);
 
             // Set up UdpClient
@@ -36,26 +38,29 @@ namespace UDPServer
 
                 if (text.ToLower().Trim().Equals("now"))
                 {
-                    messageTraVe = DateTime.Now.ToString("HH:mm dd/MM/yyyy"); 
+                    messageTraVe = DateTime.Now.ToString("HH:mm dd/MM/yyyy");
                 }
                 else if (text.ToLower().Trim().Equals("day"))
                 {
-                    messageTraVe = DateTime.Now.ToString("dd"); 
+                    messageTraVe = DateTime.Now.ToString("dd");
                 }
                 else if (text.ToLower().Trim().Equals("month"))
                 {
-                    messageTraVe = DateTime.Now.ToString("MM"); 
+                    messageTraVe = DateTime.Now.ToString("MM");
                 }
-                else if(text.ToLower().Trim().Contains("name")) //Từ Client nhập tên gửi sang Server, Client phản hồi Server theo cú pháp Xin chào + name
+                else if
+                    (text.ToLower().Trim()
+                     .Contains("name")) //Từ Client nhập tên gửi sang Server, Client phản hồi Server theo cú pháp Xin chào + name
                 {
                     var name = text.Replace("name", "").Trim(); // lấy tên từ message
-                    messageTraVe = $"Xin chào  {name}"; // tạo message trả về
+                    messageTraVe = $"Xin chào {name}"; // tạo message trả về
                 }
                 else
                 {
-                    messageTraVe = "Invalid command"; 
+                    messageTraVe = "Invalid command";
                 }
-                Console.WriteLine($"Response from Server: {messageTraVe}"); 
+
+                Console.WriteLine($"Response from Server: {messageTraVe}");
 
                 // Send response to client
                 var sendBuffer = Encoding.ASCII.GetBytes(messageTraVe);
@@ -64,8 +69,12 @@ namespace UDPServer
                 Console.WriteLine("--------------------------------");
 
                 // Clear the receive buffer
-                Array.Clear(receiveBuffer, 0, size);
+                //Array.Clear(receiveBuffer, 0, size);
             }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
         }
     }
 }

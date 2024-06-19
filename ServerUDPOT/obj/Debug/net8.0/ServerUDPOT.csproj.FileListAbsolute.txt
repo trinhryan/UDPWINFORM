@@ -12,3 +12,4 @@ C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.
 C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.pdb
 C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.genruntimeconfig.cache
 C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ref\ServerUDPOT.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.sourcelink.json
