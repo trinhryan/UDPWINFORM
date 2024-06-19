@@ -1,0 +1,14 @@
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\bin\Debug\net8.0\ServerUDPOT.exe
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\bin\Debug\net8.0\ServerUDPOT.deps.json
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\bin\Debug\net8.0\ServerUDPOT.runtimeconfig.json
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\bin\Debug\net8.0\ServerUDPOT.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\bin\Debug\net8.0\ServerUDPOT.pdb
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.AssemblyInfoInputs.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.AssemblyInfo.cs
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.csproj.CoreCompileInputs.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\refint\ServerUDPOT.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.pdb
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ServerUDPOT.genruntimeconfig.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerUDPOT\obj\Debug\net8.0\ref\ServerUDPOT.dll

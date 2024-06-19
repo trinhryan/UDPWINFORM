@@ -1,0 +1,14 @@
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\bin\Debug\net8.0\Server_nch_Client.exe
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\bin\Debug\net8.0\Server_nch_Client.deps.json
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\bin\Debug\net8.0\Server_nch_Client.runtimeconfig.json
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\bin\Debug\net8.0\Server_nch_Client.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\bin\Debug\net8.0\Server_nch_Client.pdb
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\Server_nch_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\Server_nch_Client.AssemblyInfoInputs.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\Server_nch_Client.AssemblyInfo.cs
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\Server_nch_Client.csproj.CoreCompileInputs.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\Server_nch_Client.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\refint\Server_nch_Client.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\Server_nch_Client.pdb
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\Server_nch_Client.genruntimeconfig.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\Server_nch_Client\obj\Debug\net8.0\ref\Server_nch_Client.dll

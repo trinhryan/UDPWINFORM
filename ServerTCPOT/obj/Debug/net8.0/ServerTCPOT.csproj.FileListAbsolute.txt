@@ -1,0 +1,14 @@
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\bin\Debug\net8.0\ServerTCPOT.exe
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\bin\Debug\net8.0\ServerTCPOT.deps.json
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\bin\Debug\net8.0\ServerTCPOT.runtimeconfig.json
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\bin\Debug\net8.0\ServerTCPOT.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\bin\Debug\net8.0\ServerTCPOT.pdb
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\ServerTCPOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\ServerTCPOT.AssemblyInfoInputs.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\ServerTCPOT.AssemblyInfo.cs
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\ServerTCPOT.csproj.CoreCompileInputs.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\ServerTCPOT.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\refint\ServerTCPOT.dll
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\ServerTCPOT.pdb
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\ServerTCPOT.genruntimeconfig.cache
+C:\Users\Kieu Anh\RiderProjects\OntapLapTrinhMangTCP\ServerTCPOT\obj\Debug\net8.0\ref\ServerTCPOT.dll
